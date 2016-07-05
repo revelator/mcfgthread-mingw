@@ -1,0 +1,1 @@
+# mcfgthread-mingw
